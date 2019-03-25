@@ -18,15 +18,15 @@ avatar: #
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: isaacskalonji@gmail.com
+  email: mailto:isaacskalonji@gmail.com
   facebook:
   flickr:
-  github: ojbillz
+  github: http://github.com/ojbillz
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: IsaacShilo
+  twitter: http://twitter.com/IsaacShilo
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
